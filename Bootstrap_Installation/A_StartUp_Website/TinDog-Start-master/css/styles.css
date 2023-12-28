@@ -125,3 +125,15 @@ h2{
 .bt-ft2{
     margin: 1%;
 }
+.card-maal{
+    padding-bottom: 38px;
+}
+/* Social Icons */
+.social-icon{
+    margin: 20px 10px;
+    text-align: center;
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
