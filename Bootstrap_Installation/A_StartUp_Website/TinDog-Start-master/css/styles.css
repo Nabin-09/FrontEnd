@@ -91,3 +91,19 @@ h2{
     width: 15%;
     margin: 20px 20px 50px;
 }
+/* cards */
+.card1{
+   padding: 3% 2%;
+}
+.card2{
+    padding: 3% 2%;
+}
+.card3{
+    padding: 3% 2%;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+    position: flex;
+    justify-content: space-around;
+}
